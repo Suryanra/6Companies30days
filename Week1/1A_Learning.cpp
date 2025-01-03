@@ -1,8 +1,9 @@
 Day 1:
-Image Smoother:
+Image Smoother:               
              Brute force : temp 2D vector 
              then learn how to use only col vector and preval as temp variable
              then encoding teh value in matrix cell -> very important trick
+             # similar encoding technique used in problem : Game of life
 
 Who is the Winner:
              brute force approach -> using queue or linked list
